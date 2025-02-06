@@ -1,0 +1,14 @@
+D:\C#\Hw1_KPO\bin\Debug\net8.0\Hw1_KPO.exe
+D:\C#\Hw1_KPO\bin\Debug\net8.0\Hw1_KPO.deps.json
+D:\C#\Hw1_KPO\bin\Debug\net8.0\Hw1_KPO.runtimeconfig.json
+D:\C#\Hw1_KPO\bin\Debug\net8.0\Hw1_KPO.dll
+D:\C#\Hw1_KPO\bin\Debug\net8.0\Hw1_KPO.pdb
+D:\C#\Hw1_KPO\obj\Debug\net8.0\Hw1_KPO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Hw1_KPO\obj\Debug\net8.0\Hw1_KPO.AssemblyInfoInputs.cache
+D:\C#\Hw1_KPO\obj\Debug\net8.0\Hw1_KPO.AssemblyInfo.cs
+D:\C#\Hw1_KPO\obj\Debug\net8.0\Hw1_KPO.csproj.CoreCompileInputs.cache
+D:\C#\Hw1_KPO\obj\Debug\net8.0\Hw1_KPO.dll
+D:\C#\Hw1_KPO\obj\Debug\net8.0\refint\Hw1_KPO.dll
+D:\C#\Hw1_KPO\obj\Debug\net8.0\Hw1_KPO.pdb
+D:\C#\Hw1_KPO\obj\Debug\net8.0\Hw1_KPO.genruntimeconfig.cache
+D:\C#\Hw1_KPO\obj\Debug\net8.0\ref\Hw1_KPO.dll

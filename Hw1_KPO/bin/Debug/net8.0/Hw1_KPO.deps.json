@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hw1_KPO/1.0.0": {
+        "runtime": {
+          "Hw1_KPO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hw1_KPO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
