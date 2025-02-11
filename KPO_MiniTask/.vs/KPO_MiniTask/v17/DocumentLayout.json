@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\KPO_MiniTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\zooconsoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\zooconsoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\kpo_consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\kpo_consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\veterinaryclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\veterinaryclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\things\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\things\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\things\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\things\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\things\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\things\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\interfaces\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\interfaces\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\interfaces\\ialive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\interfaces\\ialive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\animals\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\animals\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\animals\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\animals\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\animals\\rabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\animals\\rabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\animals\\predator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\animals\\predator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\animals\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\animals\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\animals\\herbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\animals\\herbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|d:\\c#\\kpo_minitask\\kpo_consoleapp\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB67B67C-3BFA-47A3-A204-03DCF809320C}|KPO_ConsoleApp\\KPO_ConsoleApp.csproj|solutionrelative:kpo_consoleapp\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZooConsoleUI.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\ZooConsoleUI.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\ZooConsoleUI.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\ZooConsoleUI.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\ZooConsoleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:59:39.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KPO_ConsoleApp.csproj",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\KPO_ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\KPO_ConsoleApp.csproj",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\KPO_ConsoleApp.csproj",
+              "RelativeToolTip": "KPO_ConsoleApp\\KPO_ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T08:41:47.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VeterinaryClinic.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\VeterinaryClinic.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\VeterinaryClinic.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\VeterinaryClinic.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\VeterinaryClinic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:59:03.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Zoo.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Zoo.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Zoo.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Zoo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:58:38.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Things\\Computer.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Things\\Computer.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Things\\Computer.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Things\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:58:18.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Things\\Table.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Things\\Table.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Things\\Table.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Things\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:58:10.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Things\\Thing.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Things\\Thing.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Things\\Thing.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Things\\Thing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:57:48.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Wolf.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Animals\\Wolf.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Wolf.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Animals\\Wolf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:57:22.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Tiger.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Animals\\Tiger.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Tiger.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Animals\\Tiger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:57:13.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rabbit.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Rabbit.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Animals\\Rabbit.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Rabbit.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Animals\\Rabbit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:57:01.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Monkey.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Monkey.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Animals\\Monkey.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Monkey.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Animals\\Monkey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:56:52.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Predator.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Predator.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Animals\\Predator.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Predator.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Animals\\Predator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:56:08.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Herbo.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Herbo.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Animals\\Herbo.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Herbo.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Animals\\Herbo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:55:53.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Animals\\Animal.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Animals\\Animal.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Animals\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:55:13.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInventory.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Interfaces\\IInventory.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Interfaces\\IInventory.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Interfaces\\IInventory.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Interfaces\\IInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:43:41.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAlive.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Interfaces\\IAlive.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Interfaces\\IAlive.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Interfaces\\IAlive.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Interfaces\\IAlive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:43:10.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "KPO_ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\KPO_MiniTask\\KPO_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "KPO_ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAgwPoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:11:21.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
