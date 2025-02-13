@@ -9,7 +9,7 @@ namespace KPO_ConsoleApp
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             var services = new ServiceCollection();
-            services.AddSingleton<VeterinaryClinic>();
+            services.AddSingleton<IVeterinaryClinic, VeterinaryClinic>();
             services.AddSingleton<Zoo>();
             services.AddSingleton<ZooManagementService>();
             var serviceProvider = services.BuildServiceProvider();
