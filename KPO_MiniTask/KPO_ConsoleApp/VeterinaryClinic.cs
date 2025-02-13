@@ -7,11 +7,16 @@ using System.Threading.Tasks;
 
 namespace KPO_ConsoleApp
 {
-  public class VeterinaryClinic
-  {
-    public bool CheckHealth(Animal animal)
+    public interface IVeterinaryClinic
     {
-      return animal.IsHealthy;
+        bool CheckHealth(Animal animal);
     }
-  }
+
+    public class VeterinaryClinic : IVeterinaryClinic
+    {
+        public bool CheckHealth(Animal animal)
+        {
+            return animal.IsHealthy;
+        }
+    }
 }

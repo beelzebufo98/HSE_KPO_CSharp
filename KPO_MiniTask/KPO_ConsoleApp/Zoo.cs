@@ -13,15 +13,17 @@ namespace KPO_ConsoleApp
     public List<Animal> Animals { get; set; } = new List<Animal>();
     public List<Herbo> ContactAnimals { get; set; }
     public List<Thing> Things { get; set; } = new List<Thing>();
-    private VeterinaryClinic Clinic { get; set; }
+    
+    private readonly IVeterinaryClinic Clinic;
 
     public event Action<int, int> AnimalAdded;
-    public Zoo(VeterinaryClinic clinic)
-    {
-      this.Clinic = clinic;
-      AnimalAdded += OnAnimalAdded;
-    }
+        
 
+    public Zoo(IVeterinaryClinic clinic)
+    {
+        this.Clinic = clinic;
+        AnimalAdded += OnAnimalAdded;
+    }
     public bool IsInventoryNumberUnique(int number)
     {
       if (Animals.Any(a => a.Number == number))
@@ -96,8 +98,8 @@ namespace KPO_ConsoleApp
     }
     public void InventoryManagement()
     {
-      Console.WriteLine("--Инвентаризация--");
-      Console.WriteLine("---Animals---");
+      Console.WriteLine("---ИНВЕНТАРИЗАЦИЯ---");
+      Console.WriteLine($"=== ANIMALS ===");
       int nameWidth = 20;
       int numberWidth = 15;
       Console.WriteLine($"{"Name".PadRight(nameWidth)}{"Number".PadRight(numberWidth)}");
@@ -106,7 +108,7 @@ namespace KPO_ConsoleApp
       {
         Console.WriteLine($"{animal.Name.PadRight(nameWidth)}{animal.Number.ToString().PadRight(numberWidth)}");
       }
-      Console.WriteLine("---Things---");
+      Console.WriteLine("=== THINGS ===");
       Console.WriteLine($"{"Name".PadRight(nameWidth)}{"Number".PadRight(numberWidth)}");
       Console.WriteLine(new string('-', nameWidth + numberWidth));
       foreach (Thing thing in Things)

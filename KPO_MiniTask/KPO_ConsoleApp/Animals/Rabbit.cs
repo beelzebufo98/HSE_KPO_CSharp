@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KPO_ConsoleApp.Animals
 {
-  internal class Rabbit:Herbo
+  public class Rabbit:Herbo
   {
   }
 }
