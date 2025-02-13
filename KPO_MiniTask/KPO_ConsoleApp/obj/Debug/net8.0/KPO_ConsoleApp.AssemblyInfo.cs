@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KPO_ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55a84ccaaaac79a5bcd7cf29fe12984de201c7fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99629a6b4c71ebdf5faaa2d9ff67ef3d9ae135d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("KPO_ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KPO_ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

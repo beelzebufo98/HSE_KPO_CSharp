@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LXNwU13znI8=",
+  "dgSpecHash": "jx3TvQulqJg=",
   "success": true,
   "projectFilePath": "D:\\C#\\KPO\\HSE_KPO_CSharp\\KPO_MiniTask\\KPO_ConsoleApp\\KPO_ConsoleApp.csproj",
   "expectedPackageFiles": [
@@ -16,12 +16,7 @@
     "C:\\Users\\gevge\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
     "C:\\Users\\gevge\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
     "C:\\Users\\gevge\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
-    "C:\\Users\\gevge\\.nuget\\packages\\xunit.runner.visualstudio\\3.0.2\\xunit.runner.visualstudio.3.0.2.nupkg.sha512",
-    "C:\\Users\\gevge\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.102\\microsoft.net.sdk.compilers.toolset.9.0.102.nupkg.sha512",
-    "C:\\Users\\gevge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\gevge\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\gevge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\gevge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
+    "C:\\Users\\gevge\\.nuget\\packages\\xunit.runner.visualstudio\\3.0.2\\xunit.runner.visualstudio.3.0.2.nupkg.sha512"
   ],
   "logs": []
 }
