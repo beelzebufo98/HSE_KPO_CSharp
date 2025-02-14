@@ -2,7 +2,7 @@
 using ConsoleApp.Domain.Animals.Entities;
 using ConsoleApp.Domain.Things.Abstract;
 using ConsoleApp.Domain.Things.Entities;
-using ConsoleApp.Domain.Zoo.Entities.KPO_ConsoleApp;
+using ConsoleApp.Domain.Zoo.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

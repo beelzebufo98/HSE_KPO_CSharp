@@ -1,5 +1,5 @@
 ﻿using ConsoleApp.Application.Services;
-using ConsoleApp.Domain.Zoo.Entities.KPO_ConsoleApp;
+using ConsoleApp.Domain.Zoo.Entities;
 using ConsoleApp.Domain.Zoo.Interfaces;
 using ConsoleApp.Domain.Zoo.Services;
 using Microsoft.Extensions.DependencyInjection;
