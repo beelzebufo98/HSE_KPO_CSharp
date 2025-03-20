@@ -195,12 +195,14 @@ FinanceApp/
 ## Запуск проекта
 1. Склонируйте папку с проектом из репозитория на вашу локальную машину
 2. Перейдите в папку с проектом, откройте консоль из этой директории и выполните
-``` cd FinanceApp
+``` 
+cd FinanceApp
 ```
 3. Соберите проект с помощью 
 ```
 dotnet build
 ```
 4.Выполните команду 
-``` dotnet run --project FinanceApp.csproj
+``` 
+dotnet run --project FinanceApp.csproj
 ```
