@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hw2_KPO.props" />
+</Project>
