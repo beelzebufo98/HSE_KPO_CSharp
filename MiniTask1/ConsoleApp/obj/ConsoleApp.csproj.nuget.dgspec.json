@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\MiniTask1\\ConsoleApp\\ConsoleApp.csproj": {}
+    "D:\\C#\\KPO\\HSE_KPO_CSharp\\MiniTask1\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "D:\\C#\\MiniTask1\\ConsoleApp\\ConsoleApp.csproj": {
+    "D:\\C#\\KPO\\HSE_KPO_CSharp\\MiniTask1\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\MiniTask1\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "D:\\C#\\KPO\\HSE_KPO_CSharp\\MiniTask1\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "D:\\C#\\MiniTask1\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "D:\\C#\\KPO\\HSE_KPO_CSharp\\MiniTask1\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\gevge\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\MiniTask1\\ConsoleApp\\obj\\",
+        "outputPath": "D:\\C#\\KPO\\HSE_KPO_CSharp\\MiniTask1\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

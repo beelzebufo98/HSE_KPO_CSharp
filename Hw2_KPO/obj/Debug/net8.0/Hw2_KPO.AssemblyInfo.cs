@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hw2_KPO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7322ac01af34b608cd398b1e60ca15ca184f69a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6156d0a82c5c0e1fe57788ea1b3629c970fc3aa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hw2_KPO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hw2_KPO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

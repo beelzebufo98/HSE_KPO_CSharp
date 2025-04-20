@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K4qZmVMiqu4=",
+  "dgSpecHash": "OzJ/3dRqvzI=",
   "success": true,
-  "projectFilePath": "D:\\C#\\MiniTask1\\MiniTask1.Test\\MiniTask1.Test.csproj",
+  "projectFilePath": "D:\\C#\\KPO\\HSE_KPO_CSharp\\MiniTask1\\MiniTask1.Test\\MiniTask1.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gevge\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\gevge\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",

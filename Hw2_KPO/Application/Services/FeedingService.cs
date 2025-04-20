@@ -29,10 +29,17 @@ namespace Hw2_KPO.Application.Services
       {
         _logger.LogWarning("Animal with ID {AnimalId} not found", animalId);
       }
-      animal.Feed(foodType);
-      _logger.LogInformation("Animal with ID {AnimalId} has eaten with {FoodType} and is satisfied", animalId, foodType);
-      var feedingEvent = new FeedingTimeEvent(animalId, foodType);
-      _eventHandler.Handler(feedingEvent);
+      if (animal.FavorFood == foodType)
+      {
+        animal.Feed(foodType);
+        _logger.LogInformation("Animal with ID {AnimalId} has eaten with {FoodType} and is satisfied", animalId, foodType);
+        var feedingEvent = new FeedingTimeEvent(animalId, foodType);
+        _eventHandler.Handler(feedingEvent);
+      }
+      else
+      {
+        _logger.LogWarning($"Animal with ID {animalId} hasn't eaten with {foodType}, because {foodType} is'n favorite food for this animal");
+      }
     }
 
     public void ProcessScheduledFeedings()

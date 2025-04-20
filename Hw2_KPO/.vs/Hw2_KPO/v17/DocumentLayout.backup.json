@@ -7,44 +7,72 @@
       "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\presentation\\controllers\\feedingschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:presentation\\controllers\\feedingschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\infrastructure\\services\\feedingtimeeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:infrastructure\\services\\feedingtimeeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\feedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\feedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\infrastructure\\services\\eventhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:infrastructure\\services\\eventhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\presentation\\controllers\\enclosurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:presentation\\controllers\\enclosurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\infrastructure\\data\\inmemoryzoodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:infrastructure\\data\\inmemoryzoodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\presentation\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:presentation\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\zoostatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\zoostatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\presentation\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:presentation\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\infrastructure\\services\\animalmovedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:infrastructure\\services\\animalmovedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\infrastructure\\repositories\\inmemoryfeedingschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:infrastructure\\repositories\\inmemoryfeedingschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\entities\\feedingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\entities\\feedingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\infrastructure\\repositories\\inmemoryenclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:infrastructure\\repositories\\inmemoryenclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\infrastructure\\repositories\\inmemoryanimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:infrastructure\\repositories\\inmemoryanimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\valueobjects\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\valueobjects\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\infrastructure\\data\\inmemoryzoodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:infrastructure\\data\\inmemoryzoodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\valueobjects\\enclosuretype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\valueobjects\\enclosuretype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\valueobjects\\animaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\valueobjects\\animaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\interfaces\\ifeedingschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\interfaces\\ifeedingschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\interfaces\\ienclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\interfaces\\ienclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\interfaces\\idomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\interfaces\\idomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\interfaces\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\interfaces\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\entities\\feedingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\entities\\feedingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\entities\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\entities\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\services\\zoostatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,52 +87,72 @@
       "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\services\\animaltransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\createfeedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\createfeedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\createanimaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\createanimaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\events\\feedingtimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\events\\feedingtimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\valueobjects\\animaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\valueobjects\\animaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\events\\animalmovedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\events\\animalmovedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\infrastructure\\repositories\\inmemoryenclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:infrastructure\\repositories\\inmemoryenclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\zoostatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\zoostatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\infrastructure\\repositories\\inmemoryanimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:infrastructure\\repositories\\inmemoryanimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\interfaces\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\interfaces\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\interfaces\\ienclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\interfaces\\ienclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\entities\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\entities\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\valueobjects\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\valueobjects\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\domain\\entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:domain\\entities\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\feedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\feedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\enclosuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\enclosuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\createfeedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\createfeedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\createenclosuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\createenclosuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\createanimaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\createanimaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\application\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:application\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\presentation\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:presentation\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\presentation\\controllers\\feedingschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:presentation\\controllers\\feedingschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\presentation\\controllers\\enclosurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:presentation\\controllers\\enclosurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\presentation\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:presentation\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|d:\\c#\\kpo\\hse_kpo_csharp\\hw2_kpo\\hw2_kpo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DB3BDC0-4C7F-4B78-A755-050AE25E5E5B}|Hw2_KPO.csproj|solutionrelative:hw2_kpo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\obj\\Debug\\net8.0\\Hw2_KPO.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Hw2_KPO.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 186,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,113 +182,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Entities\\Animal.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Animal.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Entities\\Animal.cs",
-              "RelativeToolTip": "Domain\\Entities\\Animal.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:40:54.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EnclosuresController.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\EnclosuresController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\EnclosuresController.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\EnclosuresController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\EnclosuresController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T12:49:22.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IAnimalRepository.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IAnimalRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAnimalRepository.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IAnimalRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IAnimalRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:59:17.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FoodType.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\ValueObjects\\FoodType.cs",
-              "RelativeDocumentMoniker": "Domain\\ValueObjects\\FoodType.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\ValueObjects\\FoodType.cs",
-              "RelativeToolTip": "Domain\\ValueObjects\\FoodType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:04:58.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "AnimalType.cs",
               "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\ValueObjects\\AnimalType.cs",
               "RelativeDocumentMoniker": "Domain\\ValueObjects\\AnimalType.cs",
               "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\ValueObjects\\AnimalType.cs",
               "RelativeToolTip": "Domain\\ValueObjects\\AnimalType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:04:23.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AnimalTransferService.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\AnimalTransferService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\AnimalTransferService.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\AnimalTransferService.cs",
-              "RelativeToolTip": "Application\\Services\\AnimalTransferService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAiwCIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:01:19.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateFeedingScheduleDto.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\CreateFeedingScheduleDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\CreateFeedingScheduleDto.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\CreateFeedingScheduleDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\CreateFeedingScheduleDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:12:04.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FeedingScheduleDto.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\FeedingScheduleDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\FeedingScheduleDto.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\FeedingScheduleDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\FeedingScheduleDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:07:21.722Z",
+              "WhenOpened": "2025-04-12T09:04:23.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreateAnimalDto.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\CreateAnimalDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\CreateAnimalDto.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\CreateAnimalDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\CreateAnimalDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "FoodType.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\ValueObjects\\FoodType.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\FoodType.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\ValueObjects\\FoodType.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\FoodType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:02:21.493Z"
+              "WhenOpened": "2025-04-12T09:04:58.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -250,20 +214,124 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwEUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T14:26:36.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
+              "Title": "IDomainEventHandler.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IDomainEventHandler.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDomainEventHandler.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IDomainEventHandler.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDomainEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:59:54.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Entities\\Animal.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Animal.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Entities\\Animal.cs",
+              "RelativeToolTip": "Domain\\Entities\\Animal.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:40:54.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AnimalTransferService.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\AnimalTransferService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AnimalTransferService.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\AnimalTransferService.cs",
+              "RelativeToolTip": "Application\\Services\\AnimalTransferService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:01:19.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAnimalRepository.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IAnimalRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAnimalRepository.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IAnimalRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAnimalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:59:17.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FeedingScheduleDto.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\FeedingScheduleDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\FeedingScheduleDto.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\FeedingScheduleDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\FeedingScheduleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T21:07:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateFeedingScheduleDto.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\CreateFeedingScheduleDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateFeedingScheduleDto.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\CreateFeedingScheduleDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateFeedingScheduleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T21:12:04.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateAnimalDto.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\CreateAnimalDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateAnimalDto.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\CreateAnimalDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateAnimalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T21:02:21.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EnclosuresController.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\EnclosuresController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\EnclosuresController.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\EnclosuresController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\EnclosuresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:49:22.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "AnimalsController.cs",
               "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\AnimalsController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\AnimalsController.cs",
               "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\AnimalsController.cs",
               "RelativeToolTip": "Presentation\\Controllers\\AnimalsController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwIEAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAiwL4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T19:00:29.545Z",
               "EditorCaption": ""
@@ -272,195 +340,343 @@
         },
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ZooStatisticsDto.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\ZooStatisticsDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ZooStatisticsDto.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\ZooStatisticsDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\ZooStatisticsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABiAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FeedingTimeEventHandler.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Services\\FeedingTimeEventHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\FeedingTimeEventHandler.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Services\\FeedingTimeEventHandler.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\FeedingTimeEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T21:50:41.257Z",
+              "WhenOpened": "2025-04-19T20:02:48.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StatisticsController.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\StatisticsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\StatisticsController.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\StatisticsController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\StatisticsController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAoAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EventHandlerService.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Services\\EventHandlerService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\EventHandlerService.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Services\\EventHandlerService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\EventHandlerService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T21:21:04.329Z",
+              "WhenOpened": "2025-04-19T20:02:42.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "AnimalMovedEventHandler.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Services\\AnimalMovedEventHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AnimalMovedEventHandler.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Services\\AnimalMovedEventHandler.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AnimalMovedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:02:34.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryEnclosureRepository.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA0wD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:50:37.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "InMemoryFeedingScheduleRepository.cs",
               "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
               "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\InMemoryFeedingScheduleRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T09:50:47.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FeedingService.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\FeedingService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\FeedingService.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\FeedingService.cs",
-              "RelativeToolTip": "Application\\Services\\FeedingService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "InMemoryAnimalRepository.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T09:49:34.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FeedingSchedule.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Entities\\FeedingSchedule.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\FeedingSchedule.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Entities\\FeedingSchedule.cs",
-              "RelativeToolTip": "Domain\\Entities\\FeedingSchedule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:19:52.096Z",
+              "WhenOpened": "2025-04-12T13:31:21.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FeedingSchedulesController.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\FeedingSchedulesController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\FeedingSchedulesController.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\FeedingSchedulesController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\FeedingSchedulesController.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAADwv4IAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T09:44:24.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "InMemoryZooDatabase.cs",
               "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Data\\InMemoryZooDatabase.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\InMemoryZooDatabase.cs",
               "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Data\\InMemoryZooDatabase.cs",
               "RelativeToolTip": "Infrastructure\\Data\\InMemoryZooDatabase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T15:09:23.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ZooStatisticsService.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\ZooStatisticsService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\ZooStatisticsService.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\ZooStatisticsService.cs",
-              "RelativeToolTip": "Application\\Services\\ZooStatisticsService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwAUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T15:09:13.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "EnclosureType.cs",
               "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\ValueObjects\\EnclosureType.cs",
               "RelativeDocumentMoniker": "Domain\\ValueObjects\\EnclosureType.cs",
               "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\ValueObjects\\EnclosureType.cs",
               "RelativeToolTip": "Domain\\ValueObjects\\EnclosureType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T14:15:37.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IEnclosureRepository.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IEnclosureRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IEnclosureRepository.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IEnclosureRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IEnclosureRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "IFeedingScheduleRepository.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IFeedingScheduleRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IFeedingScheduleRepository.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IFeedingScheduleRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IFeedingScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:35:03.905Z"
+              "WhenOpened": "2025-04-19T20:00:05.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InMemoryAnimalRepository.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\InMemoryAnimalRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "FeedingSchedule.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Entities\\FeedingSchedule.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\FeedingSchedule.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Entities\\FeedingSchedule.cs",
+              "RelativeToolTip": "Domain\\Entities\\FeedingSchedule.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA/wCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:31:21.956Z"
+              "WhenOpened": "2025-04-12T14:19:52.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 16,
               "Title": "Enclosure.cs",
               "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Entities\\Enclosure.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Enclosure.cs",
               "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Entities\\Enclosure.cs",
               "RelativeToolTip": "Domain\\Entities\\Enclosure.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAIA7wC8AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T12:50:29.899Z"
+              "WhenOpened": "2025-04-12T12:50:29.899Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "InMemoryEnclosureRepository.cs",
-              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\InMemoryEnclosureRepository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAApwDEAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IEnclosureRepository.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IEnclosureRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IEnclosureRepository.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Domain\\Interfaces\\IEnclosureRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IEnclosureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T12:50:37.202Z"
+              "WhenOpened": "2025-04-12T13:35:03.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 18,
+              "Title": "ZooStatisticsService.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\ZooStatisticsService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ZooStatisticsService.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\ZooStatisticsService.cs",
+              "RelativeToolTip": "Application\\Services\\ZooStatisticsService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:09:13.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FeedingService.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\FeedingService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\FeedingService.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Services\\FeedingService.cs",
+              "RelativeToolTip": "Application\\Services\\FeedingService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:49:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DomainEvent.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Events\\DomainEvent.cs",
+              "RelativeDocumentMoniker": "Application\\Events\\DomainEvent.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Events\\DomainEvent.cs",
+              "RelativeToolTip": "Application\\Events\\DomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:56:58.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FeedingTimeEvent.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Events\\FeedingTimeEvent.cs",
+              "RelativeDocumentMoniker": "Application\\Events\\FeedingTimeEvent.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Events\\FeedingTimeEvent.cs",
+              "RelativeToolTip": "Application\\Events\\FeedingTimeEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:57:05.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AnimalMovedEvent.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Events\\AnimalMovedEvent.cs",
+              "RelativeDocumentMoniker": "Application\\Events\\AnimalMovedEvent.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\Events\\AnimalMovedEvent.cs",
+              "RelativeToolTip": "Application\\Events\\AnimalMovedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:56:38.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "CreateEnclosureDto.cs",
               "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\CreateEnclosureDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\CreateEnclosureDto.cs",
               "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\CreateEnclosureDto.cs",
               "RelativeToolTip": "Application\\DTOs\\CreateEnclosureDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:06:46.973Z"
+              "WhenOpened": "2025-04-11T21:06:46.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "EnclosureDto.cs",
               "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\EnclosureDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\EnclosureDto.cs",
               "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\EnclosureDto.cs",
               "RelativeToolTip": "Application\\DTOs\\EnclosureDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T21:05:02.597Z"
+              "WhenOpened": "2025-04-11T21:05:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ZooStatisticsDto.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\ZooStatisticsDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ZooStatisticsDto.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\ZooStatisticsDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ZooStatisticsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:50:41.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AnimalDto.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\AnimalDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\AnimalDto.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Application\\DTOs\\AnimalDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\AnimalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:52:34.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FeedingSchedulesController.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\FeedingSchedulesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\FeedingSchedulesController.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\FeedingSchedulesController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\FeedingSchedulesController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAcwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:44:24.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Hw2_KPO.csproj",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Hw2_KPO.csproj",
+              "RelativeDocumentMoniker": "Hw2_KPO.csproj",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Hw2_KPO.csproj",
+              "RelativeToolTip": "Hw2_KPO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T18:46:38.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\StatisticsController.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\Presentation\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:21:04.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:56:52.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Hw2_KPO.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\obj\\Debug\\net8.0\\Hw2_KPO.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Hw2_KPO.AssemblyInfo.cs",
+              "ToolTip": "D:\\C#\\KPO\\HSE_KPO_CSharp\\Hw2_KPO\\obj\\Debug\\net8.0\\Hw2_KPO.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Hw2_KPO.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:59:06.554Z"
             }
           ]
         }

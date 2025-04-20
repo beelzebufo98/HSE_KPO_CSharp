@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+DpMyQb/H9A=",
+  "dgSpecHash": "c6OnB4Vb4Dg=",
   "success": true,
-  "projectFilePath": "D:\\C#\\MiniTask1\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "D:\\C#\\KPO\\HSE_KPO_CSharp\\MiniTask1\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gevge\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\gevge\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
